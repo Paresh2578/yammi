@@ -1,7 +1,6 @@
 
 
 module.exports = 
-[
 	[
 		{
 		"dishCategory": "Gujarati",
@@ -420,5 +419,3 @@ module.exports =
 		"quintity" : 1
 		}
 	]
-
-]
